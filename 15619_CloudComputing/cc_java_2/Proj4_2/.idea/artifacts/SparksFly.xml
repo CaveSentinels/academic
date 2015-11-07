@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SparksFly">
+    <output-path>$PROJECT_DIR$/out/artifacts/SparksFly</output-path>
+    <root id="archive" name="SparksFly.jar">
+      <element id="module-output" name="Proj4_2" />
+    </root>
+  </artifact>
+</component>

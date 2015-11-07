@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="commons-configuration-1.6">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dependencies/hbase-connector/commons-configuration-1.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dependencies/hbase-connector/commons-lang-2.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dependencies/hbase-connector/commons-logging-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dependencies/hbase-connector/guava-r06.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dependencies/hbase-connector/hadoop-core-1.0.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dependencies/hbase-connector/log4j-1.2.16.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dependencies/hbase-connector/protobuf-java-2.4.0a.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dependencies/hbase-connector/slf4j-api-1.4.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dependencies/hbase-connector/slf4j-log4j12-1.4.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dependencies/hbase-connector/zookeeper-3.4.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dependencies/hbase-connector/hbase-0.94.18.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

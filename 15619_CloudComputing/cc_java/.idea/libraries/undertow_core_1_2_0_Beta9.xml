@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="undertow-core-1.2.0.Beta9">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dependencies/undertow/undertow-core-1.2.0.Beta9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dependencies/undertow/xnio-api-3.3.0.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dependencies/undertow/xnio-nio-3.3.0.Final.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

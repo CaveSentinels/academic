@@ -1,0 +1,63 @@
+(bad lines)
+en	bad_line_01	1	1	xx(too many fields)
+en	bad_line_02	1
+en	bad_line_03
+en
+en	11	22
+
+(good lines) <- But this itself is also a bad line XD
+en	Good_title_88	100001	4
+en	Good_title_76	100001	8
+en	Good_title_99	100001	8
+en	毛姆简介		100001	97293789
+en	Giới_thiệu_Trung_Quốc(Vietnam)	100001	9999
+en	Толстой_Введение	100001	9999
+en	រត់ទៅឆ្ងាយ	100001	999
+
+(not English)
+En	bad_not_English_page	99	99
+Chinese	bad_not_English_page	99	99
+
+(With special prefix) <- Should be filtered out
+en	Media:Page	99	9
+en	Special:Page	99	9
+en	Talk:Page	99	9
+en	User:Page	99	9
+en	User_talk:Page	99	9
+en	Project:Page	99	9
+en	Project_talk:Page	99	9
+en	File:Page	99	9
+en	File_talk:Page	99	9
+en	MediaWiki:Page	99	9
+en	MediaWiki_talk:Page	99	9
+en	Template:Page	99	9
+en	Template_talk:Page	99	9
+en	Help:Page	99	9
+en	Help_talk:Page	99	9
+en	Category:Page	99	9
+en	Category_talk:Page	99	9
+en	Portal:Page	99	9
+en	Wikipedia:Page	99	9
+en	Wikipedia_talk:Page	99	9
+
+(Title starts with a letter in lower case) <- Should be filtered out
+en	lower_case_title_77	88000	4
+en	lower_case_title_76	76000	8
+en	lower_case_title_99	99000	8
+
+(Images) <- Should be removed
+en	Capitalized_Image.jpg	99	99
+en	Capitalized_Image.gif	99	99
+en	Capitalized_Image.png	99	99
+en	Capitalized_Image.JPG	99	99
+en	Capitalized_Image.GIF	99	99
+en	Capitalized_Image.PNG	99	99
+en	Capitalized_Image.txt	99	99
+en	Capitalized_Image.ico	99	99
+
+(Boilerplates) <- Should be removed
+en	404_error/	99	99
+en	Main_Page	99	99
+en	Hypertext_Transfer_Protocol	99	99
+en	Search	99	99
+

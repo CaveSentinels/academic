@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="hazelcast-3.2.3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dependencies/vert.x-2.1.5/lib/hazelcast-3.2.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dependencies/vert.x-2.1.5/lib/jackson-annotations-2.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dependencies/vert.x-2.1.5/lib/jackson-core-2.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dependencies/vert.x-2.1.5/lib/jackson-databind-2.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dependencies/vert.x-2.1.5/lib/netty-all-4.0.21.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dependencies/vert.x-2.1.5/lib/vertx-core-2.1.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dependencies/vert.x-2.1.5/lib/vertx-hazelcast-2.1.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dependencies/vert.x-2.1.5/lib/vertx-platform-2.1.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

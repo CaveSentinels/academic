@@ -1,0 +1,412 @@
+/Library/Frameworks/Python.framework/Versions/2.7/bin/python2.7 /Users/robinwen/Workspace/Code/renlopark/cc/Proj2_2/Proj2_2.py ec2-52-0-102-239.compute-1.amazonaws.com
+[INFO] Start time: 2015-02-15 17:48:31.234367
+[INFO] AWS EC2 connection established: EC2Connection:ec2.us-east-1.amazonaws.com
+[INFO] AWS EC2 ELB connection established: ELBConnection:elasticloadbalancing.us-east-1.amazonaws.com
+[INFO] AWS EC2 Auto Scaling connection established: AutoScaleConnection:autoscaling.us-east-1.amazonaws.com
+[INFO] AWS EC2 CloudWatch connection established: CloudWatchConnection:monitoring.us-east-1.amazonaws.com
+[INFO] Security group sg_CC_Proj_2_2_Free4All was created.
+[INFO] AWS EC2 Load Balancer was created successfully.
+[INFO] AWS EC2 Launch Configuration was created successfully.
+[INFO] AWS EC2 Auto Scaling Group was created successfully.
+[INFO] Trying to start the ELB warm-up at: http://ec2-52-0-102-239.compute-1.amazonaws.com/warmup?dns=LB-CC-Proj-2-2-1024546374.us-east-1.elb.amazonaws.com
+[INFO] ELB warm-up failed to start because: HTTP Error 400: Bad Request
+[INFO] Sleep for 30 second(s) and try again later...
+[INFO] Trying to start the ELB warm-up at: http://ec2-52-0-102-239.compute-1.amazonaws.com/warmup?dns=LB-CC-Proj-2-2-1024546374.us-east-1.elb.amazonaws.com
+[INFO] ELB warm-up failed to start because: HTTP Error 400: Bad Request
+[INFO] Sleep for 30 second(s) and try again later...
+[INFO] Trying to start the ELB warm-up at: http://ec2-52-0-102-239.compute-1.amazonaws.com/warmup?dns=LB-CC-Proj-2-2-1024546374.us-east-1.elb.amazonaws.com
+[INFO] ELB warm-up failed to start because: HTTP Error 400: Bad Request
+[INFO] Sleep for 30 second(s) and try again later...
+[INFO] Trying to start the ELB warm-up at: http://ec2-52-0-102-239.compute-1.amazonaws.com/warmup?dns=LB-CC-Proj-2-2-1024546374.us-east-1.elb.amazonaws.com
+[INFO] ELB warm-up failed to start because: HTTP Error 400: Bad Request
+[INFO] Sleep for 30 second(s) and try again later...
+[INFO] Trying to start the ELB warm-up at: http://ec2-52-0-102-239.compute-1.amazonaws.com/warmup?dns=LB-CC-Proj-2-2-1024546374.us-east-1.elb.amazonaws.com
+[INFO] ELB warm-up failed to start because: HTTP Error 400: Bad Request
+[INFO] Sleep for 30 second(s) and try again later...
+[INFO] Trying to start the ELB warm-up at: http://ec2-52-0-102-239.compute-1.amazonaws.com/warmup?dns=LB-CC-Proj-2-2-1024546374.us-east-1.elb.amazonaws.com
+[INFO] ELB warm-up failed to start because: HTTP Error 400: Bad Request
+[INFO] Sleep for 30 second(s) and try again later...
+[INFO] Trying to start the ELB warm-up at: http://ec2-52-0-102-239.compute-1.amazonaws.com/warmup?dns=LB-CC-Proj-2-2-1024546374.us-east-1.elb.amazonaws.com
+[INFO] ELB warm-up failed to start because: HTTP Error 400: Bad Request
+[INFO] Sleep for 30 second(s) and try again later...
+[INFO] Trying to start the ELB warm-up at: http://ec2-52-0-102-239.compute-1.amazonaws.com/warmup?dns=LB-CC-Proj-2-2-1024546374.us-east-1.elb.amazonaws.com
+[INFO] ELB warm-up failed to start because: HTTP Error 400: Bad Request
+[INFO] Sleep for 30 second(s) and try again later...
+[INFO] Trying to start the ELB warm-up at: http://ec2-52-0-102-239.compute-1.amazonaws.com/warmup?dns=LB-CC-Proj-2-2-1024546374.us-east-1.elb.amazonaws.com
+[INFO] ELB warm-up failed to start because: HTTP Error 400: Bad Request
+[INFO] Sleep for 30 second(s) and try again later...
+[INFO] Trying to start the ELB warm-up at: http://ec2-52-0-102-239.compute-1.amazonaws.com/warmup?dns=LB-CC-Proj-2-2-1024546374.us-east-1.elb.amazonaws.com
+[INFO] ELB warm-up failed to start because: HTTP Error 400: Bad Request
+[INFO] Sleep for 30 second(s) and try again later...
+[INFO] Trying to start the ELB warm-up at: http://ec2-52-0-102-239.compute-1.amazonaws.com/warmup?dns=LB-CC-Proj-2-2-1024546374.us-east-1.elb.amazonaws.com
+[INFO] ELB warm-up failed to start because: HTTP Error 400: Bad Request
+[INFO] Sleep for 30 second(s) and try again later...
+[INFO] Trying to start the ELB warm-up at: http://ec2-52-0-102-239.compute-1.amazonaws.com/warmup?dns=LB-CC-Proj-2-2-1024546374.us-east-1.elb.amazonaws.com
+[INFO] ELB warm-up failed to start because: HTTP Error 400: Bad Request
+[INFO] Sleep for 30 second(s) and try again later...
+[INFO] Trying to start the ELB warm-up at: http://ec2-52-0-102-239.compute-1.amazonaws.com/warmup?dns=LB-CC-Proj-2-2-1024546374.us-east-1.elb.amazonaws.com
+[INFO] ELB warm-up started.
+[INFO] Wait for 6 minutes for the Load Balancer warm-up
+[INFO] Trying to start the ELB warm-up at: http://ec2-52-0-102-239.compute-1.amazonaws.com/warmup?dns=LB-CC-Proj-2-2-1024546374.us-east-1.elb.amazonaws.com
+[INFO] ELB warm-up started.
+[INFO] Wait for 6 minutes for the Load Balancer warm-up
+[INFO] Trying to start the ELB warm-up at: http://ec2-52-0-102-239.compute-1.amazonaws.com/warmup?dns=LB-CC-Proj-2-2-1024546374.us-east-1.elb.amazonaws.com
+[INFO] ELB warm-up started.
+[INFO] Wait for 6 minutes for the Load Balancer warm-up
+[INFO] Trying to start the ELB warm-up at: http://ec2-52-0-102-239.compute-1.amazonaws.com/warmup?dns=LB-CC-Proj-2-2-1024546374.us-east-1.elb.amazonaws.com
+[INFO] ELB warm-up started.
+[INFO] Wait for 6 minutes for the Load Balancer warm-up
+[INFO] Trying to start the ELB warm-up at: http://ec2-52-0-102-239.compute-1.amazonaws.com/warmup?dns=LB-CC-Proj-2-2-1024546374.us-east-1.elb.amazonaws.com
+[INFO] ELB warm-up started.
+[INFO] Wait for 6 minutes for the Load Balancer warm-up
+[INFO] Trying to start the junior-system-architect testing at: http://ec2-52-0-102-239.compute-1.amazonaws.com/junior?dns=LB-CC-Proj-2-2-1024546374.us-east-1.elb.amazonaws.com
+[INFO] Junior System Architect testing started. Log file: test.1424042680822.log
+[INFO] Sleep for 120 seconds to allow the testing running...
+[INFO] Current progress: Minute 2
+[INFO] Sleep for 120 seconds to allow the testing running...
+[INFO] Current progress: Minute 3
+[INFO] Sleep for 120 seconds to allow the testing running...
+[INFO] Current progress: Minute 5
+[INFO] Sleep for 120 seconds to allow the testing running...
+[INFO] Current progress: Minute 7
+[INFO] Sleep for 120 seconds to allow the testing running...
+[INFO] Current progress: Minute 9
+[INFO] Sleep for 120 seconds to allow the testing running...
+[INFO] Current progress: Minute 11
+[INFO] Sleep for 120 seconds to allow the testing running...
+[INFO] Current progress: Minute 13
+[INFO] Sleep for 120 seconds to allow the testing running...
+[INFO] Current progress: Minute 15
+[INFO] Sleep for 120 seconds to allow the testing running...
+[INFO] Current progress: Minute 17
+[INFO] Sleep for 120 seconds to allow the testing running...
+[INFO] Current progress: Minute 19
+[INFO] Sleep for 120 seconds to allow the testing running...
+[INFO] Current progress: Minute 21
+[INFO] Sleep for 120 seconds to allow the testing running...
+[INFO] Current progress: Minute 23
+[INFO] Sleep for 120 seconds to allow the testing running...
+[INFO] Current progress: Minute 25
+[INFO] Sleep for 120 seconds to allow the testing running...
+[INFO] Current progress: Minute 27
+[INFO] Sleep for 120 seconds to allow the testing running...
+[INFO] Current progress: Minute 29
+[INFO] Sleep for 120 seconds to allow the testing running...
+[INFO] Current progress: Minute 31
+[INFO] Sleep for 120 seconds to allow the testing running...
+[INFO] Current progress: Minute 33
+[INFO] Sleep for 120 seconds to allow the testing running...
+[INFO] Current progress: Minute 35
+[INFO] Sleep for 120 seconds to allow the testing running...
+[INFO] Current progress: Minute 37
+[INFO] Sleep for 120 seconds to allow the testing running...
+[INFO] Current progress: Minute 39
+[INFO] Sleep for 120 seconds to allow the testing running...
+[INFO] Current progress: Minute 41
+[INFO] Sleep for 120 seconds to allow the testing running...
+[INFO] Current progress: Minute 43
+[INFO] Sleep for 120 seconds to allow the testing running...
+[INFO] Current progress: Minute 45
+[INFO] Sleep for 120 seconds to allow the testing running...
+[INFO] Current progress: Minute 47
+[INFO] Sleep for 120 seconds to allow the testing running...
+[INFO] Junior System Architect testing is finished. Current log:
+; MSB Junior System Architect Test
+; Test launched. Please check every minute for update.
+[Test Start]
+time=2015-02-15 23:24:40
+type=junior
+testId=1424042680822
+testFile=test.1424042680822.log
+
+[Minute 1]
+rps=555.13
+
+[Minute 2]
+rps=905.23
+
+[Minute 3]
+rps=1747.58
+
+[Minute 4]
+rps=1830.54
+
+[Minute 5]
+rps=2089.78
+
+[Minute 6]
+rps=2148.36
+
+[Minute 7]
+rps=2154.89
+
+[Minute 8]
+rps=2208.94
+
+[Minute 9]
+rps=1541.38
+
+[Minute 10]
+rps=1948.36
+
+[Minute 11]
+rps=2280.83
+
+[Minute 12]
+rps=2320.97
+
+[Minute 13]
+rps=2319.51
+
+[Minute 14]
+rps=2580.01
+
+[Minute 15]
+rps=2816.31
+
+[Minute 16]
+rps=2730.80
+
+[Minute 17]
+rps=2780.43
+
+[Minute 18]
+rps=3492.44
+
+[Minute 19]
+rps=2779.76
+
+[Minute 20]
+rps=2841.48
+
+[Minute 21]
+rps=2777.85
+
+[Minute 22]
+rps=2608.16
+
+[Minute 23]
+rps=2237.70
+
+[Minute 24]
+rps=1005.74
+
+[Minute 25]
+rps=593.28
+
+[Minute 26]
+rps=975.12
+
+[Minute 27]
+rps=2264.91
+
+[Minute 28]
+rps=2923.21
+
+[Minute 29]
+rps=3478.19
+
+[Minute 30]
+rps=3627.05
+
+[Minute 31]
+rps=3921.78
+
+[Minute 32]
+rps=4028.80
+
+[Minute 33]
+rps=3803.40
+
+[Minute 34]
+rps=3715.97
+
+[Minute 35]
+rps=3013.61
+
+[Minute 36]
+rps=3030.48
+
+[Minute 37]
+rps=3078.61
+
+[Minute 38]
+rps=3130.06
+
+[Minute 39]
+rps=3102.65
+
+[Minute 40]
+rps=3494.04
+
+[Minute 41]
+rps=3647.88
+
+[Minute 42]
+rps=3720.26
+
+[Minute 43]
+rps=3373.01
+
+[Minute 44]
+rps=3079.45
+
+[Minute 45]
+rps=3031.20
+
+[Minute 46]
+rps=2872.46
+
+[Minute 47]
+rps=2756.97
+
+[Minute 48]
+rps=1213.25
+
+[Load Generator]
+awsId=172090027681
+andrewId=yaobinw
+amiId=ami-ae0a46c6
+instanceId=i-e38aba12
+instanceType=m3.medium
+publicHostname=ec2-52-0-102-239.compute-1.amazonaws.com
+availabilityZone=us-east-1b
+
+[Elastic Load Balancer]
+dns=lb-cc-proj-2-2-1024546374.us-east-1.elb.amazonaws.com
+
+[Test End]
+time=2015-02-16 00:12:58
+rps=2595
+ih=277.95
+; Instance-Hour Usage
+; i-17dceee6	m3.medium	9.65	2015-02-16 00:03:16	2015-02-16 00:12:55
+; i-42ebd9b3	m3.medium	29.07	2015-02-15 23:43:14	2015-02-16 00:12:18
+; i-45eedcb4	m3.medium	24.63	2015-02-15 23:48:14	2015-02-16 00:12:52
+; i-88e0d279	m3.medium	21.02	2015-02-15 23:36:16	2015-02-15 23:57:17
+; i-9ee2d06f	m3.medium	20.97	2015-02-15 23:33:18	2015-02-15 23:54:16
+; i-b41b2945	m3.medium	48.13	2015-02-15 23:24:40	2015-02-16 00:12:48
+; i-b61b2947	m3.medium	48.12	2015-02-15 23:24:40	2015-02-16 00:12:47
+; i-b71b2946	m3.medium	48.13	2015-02-15 23:24:40	2015-02-16 00:12:48
+; i-d0e4d621	m3.medium	28.23	2015-02-15 23:39:11	2015-02-16 00:07:25
+
+; MSB is validating...
+; MSB has recorded this test
+; Test finished
+
+[INFO] Start shutting down the Data Center instances...
+[INFO] Wait for 120 seconds to allow instances shut down...
+[INFO] Resource "AutoScaleGroup<ASG_CC_Proj_2_2>" is deleted.
+[INFO] Resource "LaunchConfiguration:LC_CC_Proj_2_2" is deleted.
+[INFO] Resource "LoadBalancer:LB-CC-Proj-2-2" is deleted.
+[ERROR] Resource "SecurityGroup:sg_CC_Proj_2_2_Free4All" deletion failed: EC2ResponseError: 400 Bad Request
+<?xml version="1.0" encoding="UTF-8"?>
+<Response><Errors><Error><Code>DependencyViolation</Code><Message>resource sg-a3ff4ec7 has a dependent object</Message></Error></Errors><RequestID>e3f09405-92d7-444a-9e0e-edbc4d0e8c8d</RequestID></Response>
+[ERROR] Resource "SecurityGroup:sg_CC_Proj_2_2_Free4All" deletion failed: EC2ResponseError: 400 Bad Request
+<?xml version="1.0" encoding="UTF-8"?>
+<Response><Errors><Error><Code>DependencyViolation</Code><Message>resource sg-a3ff4ec7 has a dependent object</Message></Error></Errors><RequestID>0dbbac94-1eb1-4e60-b2bf-354a4f767901</RequestID></Response>
+[ERROR] Resource "SecurityGroup:sg_CC_Proj_2_2_Free4All" deletion failed: EC2ResponseError: 400 Bad Request
+<?xml version="1.0" encoding="UTF-8"?>
+<Response><Errors><Error><Code>DependencyViolation</Code><Message>resource sg-a3ff4ec7 has a dependent object</Message></Error></Errors><RequestID>0d38fb09-a93f-4b0d-bd9c-47dec0eab245</RequestID></Response>
+[ERROR] Resource "SecurityGroup:sg_CC_Proj_2_2_Free4All" deletion failed: EC2ResponseError: 400 Bad Request
+<?xml version="1.0" encoding="UTF-8"?>
+<Response><Errors><Error><Code>DependencyViolation</Code><Message>resource sg-a3ff4ec7 has a dependent object</Message></Error></Errors><RequestID>7f206a0b-03db-4703-bcc3-20d6147dcfb0</RequestID></Response>
+[ERROR] Resource "SecurityGroup:sg_CC_Proj_2_2_Free4All" deletion failed: EC2ResponseError: 400 Bad Request
+<?xml version="1.0" encoding="UTF-8"?>
+<Response><Errors><Error><Code>DependencyViolation</Code><Message>resource sg-a3ff4ec7 has a dependent object</Message></Error></Errors><RequestID>60691a9e-1f18-4a51-9a47-4058c63d5b6b</RequestID></Response>
+[ERROR] Resource "SecurityGroup:sg_CC_Proj_2_2_Free4All" deletion failed: EC2ResponseError: 400 Bad Request
+<?xml version="1.0" encoding="UTF-8"?>
+<Response><Errors><Error><Code>DependencyViolation</Code><Message>resource sg-a3ff4ec7 has a dependent object</Message></Error></Errors><RequestID>e9f96b1d-e643-4cd0-bd36-fb1b186fd8ba</RequestID></Response>
+[ERROR] Resource "SecurityGroup:sg_CC_Proj_2_2_Free4All" deletion failed: EC2ResponseError: 400 Bad Request
+<?xml version="1.0" encoding="UTF-8"?>
+<Response><Errors><Error><Code>DependencyViolation</Code><Message>resource sg-a3ff4ec7 has a dependent object</Message></Error></Errors><RequestID>35b1cff0-fc82-4cfe-9245-5a052efe433d</RequestID></Response>
+[ERROR] Resource "SecurityGroup:sg_CC_Proj_2_2_Free4All" deletion failed: EC2ResponseError: 400 Bad Request
+<?xml version="1.0" encoding="UTF-8"?>
+<Response><Errors><Error><Code>DependencyViolation</Code><Message>resource sg-a3ff4ec7 has a dependent object</Message></Error></Errors><RequestID>9966d056-71e3-4672-9286-1409a67ec9d7</RequestID></Response>
+[ERROR] Resource "SecurityGroup:sg_CC_Proj_2_2_Free4All" deletion failed: EC2ResponseError: 400 Bad Request
+<?xml version="1.0" encoding="UTF-8"?>
+<Response><Errors><Error><Code>DependencyViolation</Code><Message>resource sg-a3ff4ec7 has a dependent object</Message></Error></Errors><RequestID>1cc0b585-d808-4c68-881b-6119ae63ab77</RequestID></Response>
+[ERROR] Resource "SecurityGroup:sg_CC_Proj_2_2_Free4All" deletion failed: EC2ResponseError: 400 Bad Request
+<?xml version="1.0" encoding="UTF-8"?>
+<Response><Errors><Error><Code>DependencyViolation</Code><Message>resource sg-a3ff4ec7 has a dependent object</Message></Error></Errors><RequestID>d2bce85c-b19f-43cf-8fdf-b8c4f276e17f</RequestID></Response>
+[ERROR] Resource "SecurityGroup:sg_CC_Proj_2_2_Free4All" deletion failed: EC2ResponseError: 400 Bad Request
+<?xml version="1.0" encoding="UTF-8"?>
+<Response><Errors><Error><Code>DependencyViolation</Code><Message>resource sg-a3ff4ec7 has a dependent object</Message></Error></Errors><RequestID>784d7290-5026-430d-b714-8554b1058c91</RequestID></Response>
+[ERROR] Resource "SecurityGroup:sg_CC_Proj_2_2_Free4All" deletion failed: EC2ResponseError: 400 Bad Request
+<?xml version="1.0" encoding="UTF-8"?>
+<Response><Errors><Error><Code>DependencyViolation</Code><Message>resource sg-a3ff4ec7 has a dependent object</Message></Error></Errors><RequestID>e41552b2-170d-43ae-b855-88bb4251d477</RequestID></Response>
+[ERROR] Resource "SecurityGroup:sg_CC_Proj_2_2_Free4All" deletion failed: EC2ResponseError: 400 Bad Request
+<?xml version="1.0" encoding="UTF-8"?>
+<Response><Errors><Error><Code>DependencyViolation</Code><Message>resource sg-a3ff4ec7 has a dependent object</Message></Error></Errors><RequestID>300f4d9e-d27f-4b4d-848f-e25c0f4710db</RequestID></Response>
+[ERROR] Resource "SecurityGroup:sg_CC_Proj_2_2_Free4All" deletion failed: EC2ResponseError: 400 Bad Request
+<?xml version="1.0" encoding="UTF-8"?>
+<Response><Errors><Error><Code>DependencyViolation</Code><Message>resource sg-a3ff4ec7 has a dependent object</Message></Error></Errors><RequestID>807c1146-ed08-4f98-a8a9-71e3cfba6baa</RequestID></Response>
+[ERROR] Resource "SecurityGroup:sg_CC_Proj_2_2_Free4All" deletion failed: EC2ResponseError: 400 Bad Request
+<?xml version="1.0" encoding="UTF-8"?>
+<Response><Errors><Error><Code>DependencyViolation</Code><Message>resource sg-a3ff4ec7 has a dependent object</Message></Error></Errors><RequestID>67f769d9-db6a-4dda-954c-d25351be5d68</RequestID></Response>
+[ERROR] Resource "SecurityGroup:sg_CC_Proj_2_2_Free4All" deletion failed: EC2ResponseError: 400 Bad Request
+<?xml version="1.0" encoding="UTF-8"?>
+<Response><Errors><Error><Code>DependencyViolation</Code><Message>resource sg-a3ff4ec7 has a dependent object</Message></Error></Errors><RequestID>5dd1f1a7-6287-4c61-9b79-aff85cd7e575</RequestID></Response>
+[ERROR] Resource "SecurityGroup:sg_CC_Proj_2_2_Free4All" deletion failed: EC2ResponseError: 400 Bad Request
+<?xml version="1.0" encoding="UTF-8"?>
+<Response><Errors><Error><Code>DependencyViolation</Code><Message>resource sg-a3ff4ec7 has a dependent object</Message></Error></Errors><RequestID>521a5179-ae3d-4fe4-8bf8-5fc8f4ae0069</RequestID></Response>
+[ERROR] Resource "SecurityGroup:sg_CC_Proj_2_2_Free4All" deletion failed: EC2ResponseError: 400 Bad Request
+<?xml version="1.0" encoding="UTF-8"?>
+<Response><Errors><Error><Code>DependencyViolation</Code><Message>resource sg-a3ff4ec7 has a dependent object</Message></Error></Errors><RequestID>938c89b5-92b4-4a8c-b6f6-bfd04f9a9525</RequestID></Response>
+[ERROR] Resource "SecurityGroup:sg_CC_Proj_2_2_Free4All" deletion failed: EC2ResponseError: 400 Bad Request
+<?xml version="1.0" encoding="UTF-8"?>
+<Response><Errors><Error><Code>DependencyViolation</Code><Message>resource sg-a3ff4ec7 has a dependent object</Message></Error></Errors><RequestID>ca0cb04c-7c46-4e33-9377-1f3207a6c1ed</RequestID></Response>
+[ERROR] Resource "SecurityGroup:sg_CC_Proj_2_2_Free4All" deletion failed: EC2ResponseError: 400 Bad Request
+<?xml version="1.0" encoding="UTF-8"?>
+<Response><Errors><Error><Code>DependencyViolation</Code><Message>resource sg-a3ff4ec7 has a dependent object</Message></Error></Errors><RequestID>727d9eee-d47c-47d1-8292-7965ae6d4b8e</RequestID></Response>
+[ERROR] Resource "SecurityGroup:sg_CC_Proj_2_2_Free4All" deletion failed: EC2ResponseError: 400 Bad Request
+<?xml version="1.0" encoding="UTF-8"?>
+<Response><Errors><Error><Code>DependencyViolation</Code><Message>resource sg-a3ff4ec7 has a dependent object</Message></Error></Errors><RequestID>d3cb83d9-a0e3-43d7-addd-34aa7f02aa98</RequestID></Response>
+[ERROR] Resource "SecurityGroup:sg_CC_Proj_2_2_Free4All" deletion failed: EC2ResponseError: 400 Bad Request
+<?xml version="1.0" encoding="UTF-8"?>
+<Response><Errors><Error><Code>DependencyViolation</Code><Message>resource sg-a3ff4ec7 has a dependent object</Message></Error></Errors><RequestID>9c264423-74e3-4dd6-871e-ecfee80b036a</RequestID></Response>
+[ERROR] Resource "SecurityGroup:sg_CC_Proj_2_2_Free4All" deletion failed: EC2ResponseError: 400 Bad Request
+<?xml version="1.0" encoding="UTF-8"?>
+<Response><Errors><Error><Code>DependencyViolation</Code><Message>resource sg-a3ff4ec7 has a dependent object</Message></Error></Errors><RequestID>d17de087-b881-4967-a345-d5138d941550</RequestID></Response>
+[ERROR] Resource "SecurityGroup:sg_CC_Proj_2_2_Free4All" deletion failed: EC2ResponseError: 400 Bad Request
+<?xml version="1.0" encoding="UTF-8"?>
+<Response><Errors><Error><Code>DependencyViolation</Code><Message>resource sg-a3ff4ec7 has a dependent object</Message></Error></Errors><RequestID>ce6d3575-39d9-4a4d-b6b6-260555892933</RequestID></Response>
+[ERROR] Resource "SecurityGroup:sg_CC_Proj_2_2_Free4All" deletion failed: EC2ResponseError: 400 Bad Request
+<?xml version="1.0" encoding="UTF-8"?>
+<Response><Errors><Error><Code>DependencyViolation</Code><Message>resource sg-a3ff4ec7 has a dependent object</Message></Error></Errors><RequestID>e6c0b8b2-fb9c-4e28-ae53-c4a009e9b48e</RequestID></Response>
+[ERROR] Resource "SecurityGroup:sg_CC_Proj_2_2_Free4All" deletion failed: EC2ResponseError: 400 Bad Request
+<?xml version="1.0" encoding="UTF-8"?>
+<Response><Errors><Error><Code>DependencyViolation</Code><Message>resource sg-a3ff4ec7 has a dependent object</Message></Error></Errors><RequestID>83e3ac99-5329-4535-a6af-a95794b50ba0</RequestID></Response>
+[ERROR] Resource "SecurityGroup:sg_CC_Proj_2_2_Free4All" deletion failed: EC2ResponseError: 400 Bad Request
+<?xml version="1.0" encoding="UTF-8"?>
+<Response><Errors><Error><Code>DependencyViolation</Code><Message>resource sg-a3ff4ec7 has a dependent object</Message></Error></Errors><RequestID>d11955ba-ae25-4acf-a54d-258d2a1293de</RequestID></Response>
+[ERROR] Resource "SecurityGroup:sg_CC_Proj_2_2_Free4All" deletion failed: EC2ResponseError: 400 Bad Request
+<?xml version="1.0" encoding="UTF-8"?>
+<Response><Errors><Error><Code>DependencyViolation</Code><Message>resource sg-a3ff4ec7 has a dependent object</Message></Error></Errors><RequestID>c8156332-4a4f-425a-b2e0-5416e947ee94</RequestID></Response>
+[ERROR] Resource "SecurityGroup:sg_CC_Proj_2_2_Free4All" deletion failed: EC2ResponseError: 400 Bad Request
+<?xml version="1.0" encoding="UTF-8"?>
+<Response><Errors><Error><Code>DependencyViolation</Code><Message>resource sg-a3ff4ec7 has a dependent object</Message></Error></Errors><RequestID>5695ae4f-81de-4bce-82cd-1fd21e13f968</RequestID></Response>
+[ERROR] Resource "SecurityGroup:sg_CC_Proj_2_2_Free4All" deletion failed: EC2ResponseError: 400 Bad Request
+<?xml version="1.0" encoding="UTF-8"?>
+<Response><Errors><Error><Code>DependencyViolation</Code><Message>resource sg-a3ff4ec7 has a dependent object</Message></Error></Errors><RequestID>f5b1a7bc-3570-4e0e-88e6-c0e8ebd55c57</RequestID></Response>
+[ERROR] Resource "SecurityGroup:sg_CC_Proj_2_2_Free4All" deletion failed: EC2ResponseError: 400 Bad Request
+<?xml version="1.0" encoding="UTF-8"?>
+<Response><Errors><Error><Code>DependencyViolation</Code><Message>resource sg-a3ff4ec7 has a dependent object</Message></Error></Errors><RequestID>06fb11af-f5ea-4d23-8e27-c856fbf630c8</RequestID></Response>
+[ERROR] Resource "SecurityGroup:sg_CC_Proj_2_2_Free4All" deletion failed: EC2ResponseError: 400 Bad Request
+<?xml version="1.0" encoding="UTF-8"?>
+<Response><Errors><Error><Code>DependencyViolation</Code><Message>resource sg-a3ff4ec7 has a dependent object</Message></Error></Errors><RequestID>149eeaa2-0bf8-44e3-8f0f-f270682fd5f0</RequestID></Response>
+[ERROR] Resource "SecurityGroup:sg_CC_Proj_2_2_Free4All" deletion failed: EC2ResponseError: 400 Bad Request
+<?xml version="1.0" encoding="UTF-8"?>
+<Response><Errors><Error><Code>DependencyViolation</Code><Message>resource sg-a3ff4ec7 has a dependent object</Message></Error></Errors><RequestID>15cb9fef-ddb7-4895-9b9b-1e9834900c33</RequestID></Response>
+[ERROR] Resource "SecurityGroup:sg_CC_Proj_2_2_Free4All" deletion failed: EC2ResponseError: 400 Bad Request
+<?xml version="1.0" encoding="UTF-8"?>
+<Response><Errors><Error><Code>DependencyViolation</Code><Message>resource sg-a3ff4ec7 has a dependent object</Message></Error></Errors><RequestID>2d49ddc1-68a3-4265-a78a-bc1e088e48c4</RequestID></Response>
+[ERROR] Resource "SecurityGroup:sg_CC_Proj_2_2_Free4All" deletion failed: EC2ResponseError: 400 Bad Request
+<?xml version="1.0" encoding="UTF-8"?>
+<Response><Errors><Error><Code>DependencyViolation</Code><Message>resource sg-a3ff4ec7 has a dependent object</Message></Error></Errors><RequestID>be6d7c53-c8d1-43fe-8d7f-3eee49774517</RequestID></Response>
+[ERROR] Resource "SecurityGroup:sg_CC_Proj_2_2_Free4All" deletion failed: EC2ResponseError: 400 Bad Request
+<?xml version="1.0" encoding="UTF-8"?>
+<Response><Errors><Error><Code>DependencyViolation</Code><Message>resource sg-a3ff4ec7 has a dependent object</Message></Error></Errors><RequestID>cd04627d-ec60-44d0-868c-efedabeba468</RequestID></Response>
+[INFO] End time: 2015-02-15 19:19:58.468550
+
+Process finished with exit code 0
